@@ -1,0 +1,20 @@
+.card{
+width: 200px;
+border: 1px solid gray;
+float: left;
+margin: 5px;
+}
+img{
+    width: 200px;
+    float: left;
+}
+p{
+    font-size: large;
+    text-align: center;
+}
+
+.te{
+    margin: 10px;   
+    width: 500px;
+    text-align: right;
+}
